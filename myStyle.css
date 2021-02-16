@@ -1,3 +1,10 @@
+*{
+	box-sizing:border-box;
+	font-family: times new roman,verdana, serif;
+}
+body{
+  background-color: rgb(110, 150, 180);
+}
 img{
   width: 200px;
   height: 200px;
